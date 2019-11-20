@@ -1,0 +1,51 @@
+/* Big tablet to 1200px:1024px to 1200px */
+
+@media only screen and (max-width: 1200px) {
+    h1 {
+        font-size: 400%;
+    }
+    .tag-line {
+        font-size: 150%;
+    }
+    .testimonial-container {
+        margin: 0 1%;
+    }
+    .candid-image {
+        margin-left: 2%;
+    }
+    .section-music-video img {
+        margin: 0 1%;
+    }
+    .section-music-video p {
+        padding: 1%;
+    }
+    .form-inputs {
+        margin-left: 2%;
+    }
+    footer {
+        padding: 0 1%;
+    }
+}
+
+
+/* For small tablet to big tabler: 768 to 1023px */
+
+@media only screen and (max-width:1023px) {
+    .hero-text-box {
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row {
+        padding: 0 2%;
+    }
+}
+
+
+/* For small phones to small tablets: 481 to 767px */
+
+@media only screen and (max-width:767px) {}
+
+
+/* For small phones: 0 to 480px */
+
+@media only screen and (max-width:480px) {}
