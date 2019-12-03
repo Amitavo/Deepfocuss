@@ -294,6 +294,7 @@ nav ul:last-child {
 }
 
 .tag-line {
+    font-family: 'lato', 'Arial', sans-serif;
     text-align: center;
     padding-top: 150px;
     color: #fff;
