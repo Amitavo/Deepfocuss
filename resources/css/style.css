@@ -112,9 +112,10 @@ input[type=submit]:active {
 
 h1 {
     font-size: 450%;
-    font-weight: 700;
+    font-weight: 300;
     /* font-family: 'Dancing Script', cursive; */
     line-height: 150%;
+    letter-spacing: .3px;
 }
 
 h2 {
@@ -304,7 +305,7 @@ nav ul:last-child {
 
 .hero-text {
     /* text-transform: uppercase; */
-    /* letter-spacing: 1px; */
+    letter-spacing: 1px;
 }
 
 .hero-text-box .btn-full {
