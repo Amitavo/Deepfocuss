@@ -111,10 +111,10 @@ input[type=submit]:active {
 /*--------- HEADINGS -------------*/
 
 h1 {
-    font-size: 600%;
+    font-size: 450%;
     font-weight: 700;
     /* font-family: 'Dancing Script', cursive; */
-    line-height: 100%;
+    line-height: 150%;
 }
 
 h2 {
@@ -395,10 +395,10 @@ nav ul:last-child {
 }
 
 .section-services h3 {
-    background-color: #060A0F;
+    background-color: rgba(6, 10, 15, 0.637);
     color: #fff;
-    padding: 1.5rem 0;
-    margin-bottom: 1px;
+    padding: 1rem 0;
+    margin-bottom: 0px;
 }
 
 .service-image {
