@@ -111,11 +111,11 @@ input[type=submit]:active {
 /*--------- HEADINGS -------------*/
 
 h1 {
-    font-size: 450%;
-    font-weight: 300;
+    font-size: 500%;
+    font-weight: 700;
     /* font-family: 'Dancing Script', cursive; */
     line-height: 150%;
-    letter-spacing: .3px;
+    letter-spacing: 1px;
 }
 
 h2 {
@@ -295,17 +295,12 @@ nav ul:last-child {
 }
 
 .tag-line {
-    font-family: 'lato', 'Arial', sans-serif;
+    font-family: 'Dancing Script', cursive;
     text-align: center;
     padding-top: 150px;
     color: #fff;
     font-weight: 300;
     font-size: 200%;
-}
-
-.hero-text {
-    /* text-transform: uppercase; */
-    letter-spacing: 1px;
 }
 
 .hero-text-box .btn-full {
